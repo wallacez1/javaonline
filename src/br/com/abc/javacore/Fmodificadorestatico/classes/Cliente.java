@@ -20,17 +20,9 @@ public class Cliente {
         }
     }
 
-    static{
-        System.out.println("bloco estatico 2");
-    }
-    static{
-        System.out.println("bloco estatico 3");
-    }
-
         public Cliente(){
 
             };
-
 
 
         public static int [] getParcelas() { return parcelas; }
